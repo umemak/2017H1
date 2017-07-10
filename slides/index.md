@@ -1,3 +1,11 @@
 [groovyの話](./groovy.html)
 
 [remarkでスライド発表](./remark.html)
+
+[PHP 5.6.x から PHP 7.0.x への移行](./phpmig.html)
+
+[PlantUMLでUML作成](./plantuml.html)
+
+[Kotlinの話](./kotlin.html)
+
+[]()
