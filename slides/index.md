@@ -8,4 +8,8 @@
 
 [Kotlinの話](./kotlin.html)
 
-[]()
+[PHPを使ったプログラム開発](./phpdev.html)
+
+[SQL基礎](./sqlbasic.html)
+
+[DB設計](./dbdesign.html)
