@@ -9,4 +9,7 @@
 ## 応用
 * デバッグ
  - print
+ - var_dump
 
+* test
+ - phpUnit
